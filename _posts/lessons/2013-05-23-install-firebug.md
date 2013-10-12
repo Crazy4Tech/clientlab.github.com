@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 category: lessons
 title: Firebug插件安装教程
