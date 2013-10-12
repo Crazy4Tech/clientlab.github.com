@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post
 category: studio
 title: 学习TANX SSP的javascript代码
 tagline: 学习TANX SSP的javascript代码
-tags : [TANX, SSP, AdExchange, 广告]
+tags: [TANX, SSP, AdExchange, 广告]
 ---
 
 {% include JB/setup %}
