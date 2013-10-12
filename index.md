@@ -7,7 +7,7 @@ tagline: 学习和研究互联网客户端javascript方面的技术
 
 ## 常用工具 ##
 
-- [GitHub](https://github.com/gruntjs/) Grunt ： 一个自动化的项目构建工具 [中文文档](http://www.gruntjs.org/) [英文文档](http://www.gruntjs.com/)
+- [GitHub](https://github.com/gruntjs/) Grunt ： 一个自动化的项目构建工具 [[中文文档](http://www.gruntjs.org/)] [[英文文档](http://www.gruntjs.com/)]
 
 ## 常用教程 ##
 
