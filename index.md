@@ -5,6 +5,10 @@ tagline: 学习和研究互联网客户端javascript方面的技术
 ---
 {% include JB/setup %}
 
+## 常用工具 ##
+
+- [GitHub](https://github.com/gruntjs/) Grunt ： 一个自动化的项目构建工具 [中文文档](http://www.gruntjs.org/) [英文文档](http://www.gruntjs.com/)
+
 ## 常用教程 ##
 
 - [windows下安装jekyll](http://aotee.com/windows-installation-jekyll) - [阿泉的博客](http://aotee.com/)
