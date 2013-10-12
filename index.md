@@ -5,6 +5,11 @@ tagline: 学习和研究互联网客户端javascript方面的技术
 ---
 {% include JB/setup %}
 
+## 常用教程 ##
+
+- [windows下安装jekyll](http://aotee.com/windows-installation-jekyll) - [阿泉的博客](http://aotee.com/)
+- [Jekyll在Windows下面中文编码问题解决方案](http://www.cnblogs.com/aleda/articles/Jekyll-in-Windows-following-Chinese-encoding-problem-solutions.html)
+
 ## 组织的项目库 ##
 
 ### 学习研究类 ###
@@ -55,13 +60,6 @@ GitHub：[https://github.com/plusjade/themes.jekyllbootstrap.com](https://github
 
 GitHub：[https://github.com/jekyllbootstrap/theme-tom](https://github.com/jekyllbootstrap/theme-tom)
 
-## 组织的成员 ##
-
-- [周培公](http://www.peigong.tk) - [GitHub](https://github.com/)
-- [听歌](https://github.com/TingGe)
-- [尘埃](https://github.com/chenai1112)
-- [onionyy](https://github.com/onionyy)
-
 ## 最新的文章 ##
 
 <ul class="posts">
@@ -69,3 +67,10 @@ GitHub：[https://github.com/jekyllbootstrap/theme-tom](https://github.com/jekyl
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+## 组织的成员 ##
+
+- [周培公](http://www.peigong.tk) - [GitHub](https://github.com/)
+- [听歌](https://github.com/TingGe)
+- [尘埃](https://github.com/chenai1112)
+- [onionyy](https://github.com/onionyy)
