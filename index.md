@@ -7,7 +7,7 @@ tagline: 学习和研究互联网客户端javascript方面的技术
 
 ## 常用工具 ##
 
-- [GitHub](https://github.com/gruntjs/) Grunt ： 一个自动化的项目构建工具 [[中文文档](http://www.gruntjs.org/)] [[英文文档](http://www.gruntjs.com/)]
+- [[GitHub](https://github.com/gruntjs/)] Grunt ： 一个自动化的项目构建工具 [[中文文档](http://www.gruntjs.org/)] [[英文文档](http://www.gruntjs.com/)]
 
 ## 常用教程 ##
 
@@ -17,19 +17,19 @@ tagline: 学习和研究互联网客户端javascript方面的技术
 
 ## 学习项目 ##
 
-- [GitHub](https://github.com/clientlab/advertisement) advertisement ： 学习和研究广告投放系统的前端技术
-- [GitHub](https://github.com/clientlab/analytics) analytics ： 学习和研究监测分析系统的前端技术
+- [[GitHub](https://github.com/clientlab/advertisement)] advertisement ： 学习和研究广告投放系统的前端技术
+- [[GitHub](https://github.com/clientlab/analytics)] analytics ： 学习和研究监测分析系统的前端技术
 
 ## 工具项目 ##
 
-- [GitHub](https://github.com/clientlab/grunt-clientlab-filter) grunt-clientlab-filter ： 执行查找替换指定占位符的GRUNT任务
+- [[GitHub](https://github.com/clientlab/grunt-clientlab-filter)] grunt-clientlab-filter ： 执行查找替换指定占位符的GRUNT任务
 
 ## 参考项目 ##
 
-- [GitHub](https://github.com/mojombo/jekyll) [jekyll](https://github.com/clientlab/jekyll) ： 当前组织首页使用的博客引擎
-- [GitHub](https://github.com/plusjade/jekyll-bootstrap) [jekyll-bootstrap](https://github.com/clientlab/jekyll-bootstrap) : 当前组织首页使用的博客引擎（使用了bootstrap框架）
-- [GitHub](https://github.com/plusjade/themes.jekyllbootstrap.com) [themes.jekyllbootstrap.com](https://github.com/clientlab/themes.jekyllbootstrap.com) : 博客引擎的皮肤项目
-- [GitHub](https://github.com/jekyllbootstrap/theme-tom) [theme-tom](https://github.com/clientlab/theme-tom) : 当前组织首页使用的博客引擎的项目
+- [[GitHub](https://github.com/mojombo/jekyll) [jekyll](https://github.com/clientlab/jekyll)] ： 当前组织首页使用的博客引擎
+- [[GitHub](https://github.com/plusjade/jekyll-bootstrap) [jekyll-bootstrap](https://github.com/clientlab/jekyll-bootstrap)] : 当前组织首页使用的博客引擎（使用了bootstrap框架）
+- [[GitHub](https://github.com/plusjade/themes.jekyllbootstrap.com) [themes.jekyllbootstrap.com](https://github.com/clientlab/themes.jekyllbootstrap.com)] : 博客引擎的皮肤项目
+- [[GitHub](https://github.com/jekyllbootstrap/theme-tom) [theme-tom](https://github.com/clientlab/theme-tom)] : 当前组织首页使用的博客引擎的项目
 
 ## 最新文章 ##
 
