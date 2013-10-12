@@ -26,10 +26,10 @@ tagline: 学习和研究互联网客户端javascript方面的技术
 
 ## 参考项目 ##
 
-- [[GitHub](https://github.com/mojombo/jekyll) [jekyll](https://github.com/clientlab/jekyll)] ： 当前组织首页使用的博客引擎
-- [[GitHub](https://github.com/plusjade/jekyll-bootstrap) [jekyll-bootstrap](https://github.com/clientlab/jekyll-bootstrap)] : 当前组织首页使用的博客引擎（使用了bootstrap框架）
-- [[GitHub](https://github.com/plusjade/themes.jekyllbootstrap.com) [themes.jekyllbootstrap.com](https://github.com/clientlab/themes.jekyllbootstrap.com)] : 博客引擎的皮肤项目
-- [[GitHub](https://github.com/jekyllbootstrap/theme-tom) [theme-tom](https://github.com/clientlab/theme-tom)] : 当前组织首页使用的博客引擎的项目
+- [[GitHub](https://github.com/mojombo/jekyll)] [jekyll](https://github.com/clientlab/jekyll) ： 当前组织首页使用的博客引擎
+- [[GitHub](https://github.com/plusjade/jekyll-bootstrap)] [jekyll-bootstrap](https://github.com/clientlab/jekyll-bootstrap) : 当前组织首页使用的博客引擎（使用了bootstrap框架）
+- [[GitHub](https://github.com/plusjade/themes.jekyllbootstrap.com)] [themes.jekyllbootstrap.com](https://github.com/clientlab/themes.jekyllbootstrap.com) : 博客引擎的皮肤项目
+- [[GitHub](https://github.com/jekyllbootstrap/theme-tom)] [theme-tom](https://github.com/clientlab/theme-tom) : 当前组织首页使用的博客引擎的项目
 
 ## 最新文章 ##
 
