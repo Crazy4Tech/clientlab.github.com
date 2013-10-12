@@ -61,7 +61,7 @@ GitHub：[https://github.com/plusjade/themes.jekyllbootstrap.com](https://github
 
 GitHub：[https://github.com/jekyllbootstrap/theme-tom](https://github.com/jekyllbootstrap/theme-tom)
 
-## 最新的文章 ##
+## 最新文章 ##
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -69,7 +69,7 @@ GitHub：[https://github.com/jekyllbootstrap/theme-tom](https://github.com/jekyl
   {% endfor %}
 </ul>
 
-## 组织的成员 ##
+## 组成员 ##
 
 - [周培公](http://www.peigong.tk) - [GitHub](https://github.com/)
 - [听歌](https://github.com/TingGe)
