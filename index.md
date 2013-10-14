@@ -8,6 +8,7 @@ tagline: 学习和研究互联网客户端javascript方面的技术
 ## 常用工具 ##
 
 - [[GitHub](https://github.com/gruntjs/)] Grunt ： 一个自动化的项目构建工具 [[中文文档](http://www.gruntjs.org/)] [[英文文档](http://www.gruntjs.com/)]
+- [[GitHub](https://github.com/jquery/qunit)] QUnit ：一个javascript的单元测试框架 [[QUnit官网](http://qunitjs.com/)] [[Grunt插件](https://github.com/gruntjs/grunt-contrib-qunit)]
 
 ## 常用教程 ##
 
@@ -23,6 +24,7 @@ tagline: 学习和研究互联网客户端javascript方面的技术
 ## 工具项目 ##
 
 - [[GitHub](https://github.com/clientlab/grunt-clientlab-filter)] grunt-clientlab-filter ： 执行查找替换指定占位符的GRUNT任务
+- [[GitHub](https://github.com/Bartvds/grunt-run-grunt)] [grunt-run-grunt](https://github.com/clientlab/grunt-run-grunt) ： 当前组织首页使用的博客引擎
 
 ## 参考项目 ##
 
