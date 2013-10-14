@@ -1,12 +1,17 @@
 ---
 layout: post
 category: lessons
-title: javascript中的单元测试
+title: javascript项目中的QUint单元测试
 tagline: javascript中的单元测试
 tags : [培训教程, 单元测试]
 ---
 {% include JB/setup %}
 
+## 项目中源代码和测试代码的目录组织 ##
+## 单元测试中常用的断言 ##
+## 异步测试的做法 ##
+## 单元测试的模块化归类和分组 ##
+## 与Grunt构建工具的集成 ##
 ## 参考资料 ##
 
 - [JQuery团队打造的javascript单元测试工具QUnit介绍](http://www.cnblogs.com/nuaalfm/archive/2010/02/26/1674235.html)
