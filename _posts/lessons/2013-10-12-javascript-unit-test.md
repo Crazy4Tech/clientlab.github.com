@@ -19,3 +19,4 @@ tags : [培训教程, 单元测试]
 - [高效 JavaScript 单元测试](http://www.ibm.com/developerworks/cn/opensource/os-jstesting/)
 - [JavaScript的单元测试工具](http://select.yeeyan.org/view/213582/265887)
 - [虚拟座谈：JavaScript单元测试现状](http://www.infoq.com/cn/articles/javascript-unit-testing)
+- [javascript单元测试](http://www.cnblogs.com/frostbelt/archive/2012/08/03/2622302.html)

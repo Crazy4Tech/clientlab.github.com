@@ -75,23 +75,20 @@ Grunt是一个自动化的项目构建工具。Grunt和Grunt的插件都是通�
 
 在git命令行工具中，使用git命令把所需要的模板安装在本机上。
 
-> TODO：先以gruntfile模板为例。以后把经常使用的脚本架文件制作成NPM项目。
-
 如下：
 
-	git clone https://github.com/gruntjs/grunt-init-gruntfile.git ~/.grunt-init/gruntfile
+	git clone https://github.com/clientlab/grunt-init-gruntfile.git ~/.grunt-init/gruntfile
 
 然后进入一个准备开发项目的空目录，按Shift+鼠标右键，打开右键菜单，选择“在此处打开命令窗口(W)”，打开命令行，执行如下程序：
 
 	grunt-init gruntfile
 
-> git工具的安装，请移步[http://windows.github.com/](http://windows.github.com/)。
-
-其他模板，参见：[https://github.com/gruntjs/](https://github.com/gruntjs/)
-
-自定义模板开发，参见：[http://www.gruntjs.org/article/project_scaffolding.html](http://www.gruntjs.org/article/project_scaffolding.html)
+> 请注意，此模板将在当前目录中生成文件，如果你不想覆盖现有文件，一定要使用一个新的空目录。
 
 ## 参考资料 ##
 
 - [Node.js 网站](http://nodejs.org/)
 - Grunt ： [[GitHub](https://github.com/gruntjs/)] [[中文文档](http://www.gruntjs.org/)] [[英文文档](http://www.gruntjs.com/)]
+- [git工具的安装](http://windows.github.com/)
+- [其他常用 grunt-init 模板](https://github.com/gruntjs/)
+- [grunt-init 自定义模板开发](http://www.gruntjs.org/article/project_scaffolding.html)
