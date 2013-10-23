@@ -9,7 +9,7 @@ tags : [培训教程, 单元测试]
 
 ## QUnit的简介 ##
 
-> 本文只介绍[Qunit](http://qunitjs.com/)的使用，不再介绍单元测试框架的选型过程，可能参考文末参考资料部分的内容。
+> 本文只介绍[Qunit](http://qunitjs.com/)的使用，不再介绍单元测试框架的选型过程。
 
 QUnit的官网介绍：
 
@@ -21,7 +21,7 @@ QUnit是一个强大的、简单易用的javascript单元测试框架。
 
 可以到[QUnit官网(http://qunitjs.com)](http://qunitjs.com/)上下载qunit.js和qunit.css两个文件。
 
-虽然有[jQuery CDN(http://code.jquery.com/)](http://code.jquery.com/)和[GitHub托管(https://github.com/jquery/qunit)](https://github.com/jquery/qunit)的代码可用，但是为了稳定，最好还是下载了使用吧。
+虽然有[jQuery CDN(http://code.jquery.com/)](http://code.jquery.com/)和[GitHub托管(https://github.com/jquery/qunit)](https://github.com/jquery/qunit)的代码可用，但是为了稳定，还是下载了使用吧。
 
 ### QUnit上手应用 ###
 
