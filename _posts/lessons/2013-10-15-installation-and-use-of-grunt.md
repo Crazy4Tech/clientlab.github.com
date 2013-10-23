@@ -96,9 +96,8 @@ Grunt是一个自动化的项目构建工具。Grunt和Grunt的插件都是通�
 > 请注意，此模板将在当前目录中生成文件，如果你不想覆盖现有文件，一定要使用一个新的空目录。
 
 ## 参考资料 ##
-
-- [Node.js 网站](http://nodejs.org/)
-- Grunt ： [[GitHub](https://github.com/gruntjs/)] [[中文文档](http://www.gruntjs.org/)] [[英文文档](http://www.gruntjs.com/)]
+- [Node.js 官网(http://nodejs.org)](http://nodejs.org)
+- [Grunt 官网](http://www.gruntjs.com) - [[GitHub](https://github.com/gruntjs/)] [[中文文档](http://www.gruntjs.org/)]
 - [git工具的安装](http://windows.github.com/)
 - [其他常用 grunt-init 模板](https://github.com/gruntjs/)
 - [grunt-init 自定义模板开发](http://www.gruntjs.org/article/project_scaffolding.html)
