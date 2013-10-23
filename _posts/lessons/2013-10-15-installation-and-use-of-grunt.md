@@ -79,6 +79,16 @@ Grunt是一个自动化的项目构建工具。Grunt和Grunt的插件都是通�
 
 	git clone https://github.com/clientlab/grunt-init-gruntfile.git ~/.grunt-init/gruntfile
 
+在Windows平台上稍微有些不方便，但是可以在文件浏览器中输入%USERPROFILE%，定义到该目录下，然后创建相关目录，把文件Copy进去。
+
+最终的文件目录结构，如下：
+
+	.grunt-init/
+	.grunt-init/gruntfile/
+	.grunt-init/gruntfile/README.md
+	.grunt-init/gruntfile/template.js
+	.grunt-init/gruntfile/root/
+
 然后进入一个准备开发项目的空目录，按Shift+鼠标右键，打开右键菜单，选择“在此处打开命令窗口(W)”，打开命令行，执行如下程序：
 
 	grunt-init gruntfile
