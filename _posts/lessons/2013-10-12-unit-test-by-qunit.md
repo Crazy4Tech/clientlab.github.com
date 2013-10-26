@@ -3,7 +3,7 @@ layout: post
 category: lessons
 title: 在javascript项目中使用QUint进行单元测试
 tagline: javascript中的单元测试
-tags : [培训教程, 单元测试]
+tags : [开发工具, 单元测试]
 ---
 {% include JB/setup %}
 

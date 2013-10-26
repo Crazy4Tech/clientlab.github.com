@@ -3,7 +3,7 @@ layout: post
 category: lessons
 title: 使用grunt-run-grunt插件组织团队的开发
 tagline: 使用grunt-run-grunt插件组织团队的开发
-tags : [培训教程, Grunt插件, 项目组织]
+tags : [Grunt插件, 项目组织]
 ---
 {% include JB/setup %}
 

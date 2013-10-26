@@ -3,7 +3,7 @@ layout: post
 category: lessons
 title: Firebug插件安装教程
 tagline: Firebug插件安装教程
-tags : [培训教程, Firebug, Firefox, Firebug安装, Firebug教程, Firefox教程]
+tags : [代码调试, 入门教程]
 ---
 {% include JB/setup %}
 
