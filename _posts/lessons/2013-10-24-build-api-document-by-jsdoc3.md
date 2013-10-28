@@ -114,10 +114,14 @@ JSDoc注释的样式如下例，与单行注释 `//` 和多行注释 `/**/` 不�
 
 Grunt的安装使用，请参考教程[《Grunt的安装和使用》](http://clientlab.github.io/lessons/2013/10/15/installation-and-use-of-grunt/)。
 
+JSDoc某些配置有git依赖，需要在环境变量中增加git的bin目录，以便在命令行中可以执行git命令。
+
+> 在常用的GitHub客户端([http://windows.github.com/](http://windows.github.com/))中，我没有找到git命令安装在哪，所以只好安装了一个msysgit([http://msysgit.github.io/](http://msysgit.github.io/))。有更好的方法，再更新教程。
+
 ## 参考资料 ##
 
 - [JSDoc 主页](http://usejsdoc.org/index.html) - [GitHub](https://github.com/jsdoc3/jsdoc)
-- [NPM模块主页](https://npmjs.org/package/grunt-jsdoc) - [GitHub](https://github.com/krampstudio/grunt-jsdoc-plugin)
+- grunt-jsdoc-plugin Grunt任务插件 [NPM模块主页](https://npmjs.org/package/grunt-jsdoc) - [GitHub](https://github.com/krampstudio/grunt-jsdoc-plugin)
 - [使用grunt-jsdoc自动化生成javascirpt文档](http://www.w3c.com.cn/%E4%BD%BF%E7%94%A8grunt-jsdoc%E8%87%AA%E5%8A%A8%E5%8C%96%E7%94%9F%E6%88%90javascirpt%E6%96%87%E6%A1%A3)
 - [JSDoc模板docstrap](https://github.com/terryweiss/docstrap)
 - [JSDoc模板jsdoc3-bootstrap](https://github.com/alivedise/jsdoc3-bootstrap)
