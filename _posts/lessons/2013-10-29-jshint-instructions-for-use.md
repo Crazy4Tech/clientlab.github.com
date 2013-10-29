@@ -1,8 +1,8 @@
 ---
 layout: post
 category: lessons
-title: JSHint 使用说明
-tagline: JSHint 使用说明
+title: [转]JSHint 使用说明
+tagline: [转]JSHint 使用说明
 tags : [开发工具]
 ---
 {% include JB/setup %}
