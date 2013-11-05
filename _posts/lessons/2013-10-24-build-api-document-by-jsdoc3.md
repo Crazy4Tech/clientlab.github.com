@@ -92,13 +92,23 @@ JSDoc注释的样式如下例，与单行注释 `//` 和多行注释 `/**/` 不�
 	 */
 	function bar() {}
 
+### 类的注释 ###
+
+- `@name` ：类名称
+- `@class` ：类描述
+- `@constructor` ：表明这是一个构造函数，非常重要。
+- `@extends`	:类继承的父类。
+- `@requires` ： 依赖的类。
+- `@type`	：数据的类型，主要用来注释属性。
+- `@default`	：默认值，主要用来注释属性。
+
 ### 其他常用注释 ###
 
 - `@example`	: 示例代码。
 - `@enum [<type>]`	: 一组同样类型的静态属性集合。`switch` 语句中的分支应该只使用枚举。
-- `@class` ：类描述
-- `@constructor` ：表明这是一个构造函数，非常重要。
 - `@abstract` 标明一个成员是抽象的，需要子类去实现。
+- `@public`、`@protected`、`@private`：类、方法或属性的访问权限
+
 - `@overview	`	：对当前代码文件的描述。
 - `@copyright`	：代码的版权信息。
 - `@author <name> [<emailAddress>]`	：代码的作者信息。
@@ -114,9 +124,7 @@ JSDoc注释的样式如下例，与单行注释 `//` 和多行注释 `/**/` 不�
 
 Grunt的安装使用，请参考教程[《Grunt的安装和使用》](http://clientlab.github.io/lessons/2013/10/15/installation-and-use-of-grunt/)。
 
-JSDoc某些配置有git依赖，需要在环境变量中增加git的bin目录，以便在命令行中可以执行git命令。
-
-> 在常用的GitHub客户端([http://windows.github.com/](http://windows.github.com/))中，我没有找到git命令安装在哪，所以只好安装了一个msysgit([http://msysgit.github.io/](http://msysgit.github.io/))。有更好的方法，再更新教程。
+JSDoc某些配置有git依赖， 需要在命令行中可以执行git命令。最好先安装一个msysgit(http://msysgit.github.io/)，然后在环境变量中增加git的bin目录。
 
 在Grunt中使用JSDoc3插件的配置参考如下：
 
