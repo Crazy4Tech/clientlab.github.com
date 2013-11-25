@@ -7,8 +7,6 @@ tags : [开发规范]
 ---
 {% include JB/setup %}
 
-# 语义化版本控制 #
-
 > 原文地址：[Semantic Versioning 2.0.0(http://semver.org/)](http://semver.org/)。
 
 ## 概要 ##
@@ -41,7 +39,7 @@ tags : [开发规范]
 
 语义化版本控制规范是由[Tom Preston-Werner](http://tom.preston-werner.com/)编写的。他是[Gravatars](http://en.gravatar.com/) 的创始人，也是[GitHub](https://github.com/)的共同创办人。
 
-如果你有一些反馈，可以在[GitHub上创建一个问题](https://github.com/mojombo/semver/issues)。
+如果你有一些反馈，可以在[GitHub上提交一个问题](https://github.com/mojombo/semver/issues)。
 
 ## 许可证 ##
 
