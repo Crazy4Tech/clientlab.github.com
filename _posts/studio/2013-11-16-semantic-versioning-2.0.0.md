@@ -1,6 +1,6 @@
 ---
 layout: post
-category: lessons
+category: studio
 title: 语义化版本控制 2.0.0
 tagline: 语义化版本控制 2.0.0
 tags : [开发规范]
