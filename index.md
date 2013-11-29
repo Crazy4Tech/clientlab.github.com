@@ -33,7 +33,7 @@ tagline: 学习和研究互联网客户端javascript方面的技术
 
 - [[GitHub](https://github.com/clientlab/grunt-clientlab-filter)] grunt-clientlab-filter ： 执行查找替换指定占位符的GRUNT任务
 - [[GitHub](https://github.com/clientlab/grunt-init-gruntfile)] grunt-init-gruntfile ： 使用grunt-init命令创建Client Lab常用的Gruntfile
-- [[GitHub](https://github.com/Bartvds/grunt-run-grunt)] [grunt-run-grunt](https://github.com/clientlab/grunt-run-grunt) ： 当前组织首页使用的博客引擎
+- [[GitHub](https://github.com/Bartvds/grunt-run-grunt)] [grunt-run-grunt](https://github.com/clientlab/grunt-run-grunt) ： 分拆Gruntfile的工具
 
 ## 参考项目 ##
 
